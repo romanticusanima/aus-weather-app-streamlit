@@ -1,4 +1,4 @@
-# Iris App Streamlit
+# Aus Weather App Streamlit
 
 This project demonstrates how to deploy a machine learning model using Streamlit to predict weather in Australia. The application allows users to input today's weather characteristics and get a tomorrow prediction based on the trained model Random Forest.
 
@@ -8,7 +8,7 @@ If the link displays the message "This app has gone to sleep due to inactivity. 
 
 ## Project structure
 
-- **data/**: Folder which contains data set Iris (`weatherAUS.csv`).
+- **data/**: Folder which contains dataset (`weatherAUS.csv`).
 - **images/**: Folder for storing images used in the application.
 - **model/**: Folder containing the trained ML model.
 - **utils/**: Folder containing helper functions.
@@ -25,7 +25,7 @@ You will need all packages specified in `requirements.txt`.
 1. **Clone repository**:
    ```bash
    git clone https://github.com/romanticusanima/aus-weather-app-streamlit.git
-   cd iris-app-streamlit
+   cd aus-weather-app-streamlit
    ```
 
 2. **Create virtual environment** (optional):
