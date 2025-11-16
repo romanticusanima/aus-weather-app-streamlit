@@ -1,4 +1,4 @@
-# Aus Weather App Streamlit
+# Australian Weather App Streamlit
 
 This project demonstrates how to deploy a machine learning model using Streamlit to predict weather in Australia. The application allows users to input today's weather characteristics and get a tomorrow prediction based on the trained model Random Forest.
 
